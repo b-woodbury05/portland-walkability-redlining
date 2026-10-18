@@ -4,7 +4,7 @@ Do neighborhoods that were redlined in the 1930s have lower
 walkability today? This project tests that question across 68 Portland
 neighborhoods using regression analysis in R.
 
-[Read the full report (PDF)](report/Legacy in the Lines.pdf)
+[Read the full report (PDF)](report/Legacy%20in%20the%20Lines.pdf)
 
 ## Key findings
 - Contrary to my hypothesis, formerly redlined neighborhoods (Grades
