@@ -10,9 +10,8 @@ neighborhoods using regression analysis in R.
 - Contrary to my hypothesis, formerly redlined neighborhoods (Grades
   B–D) scored roughly 20–46 points higher on walkability than
   Grade A neighborhoods, across all models.
-- Formerly redlined neighborhoods being more walkable does not mean that communities originally harmed by redlining are the ones receiving the benefits of walkability. Direct city planning and indirect gentrification has displaced many people of color from their historical neighborhoods, so that they cannot benefit from the positives of modern urban density. 
-- This study found evidence that within similarly graded neighborhoods, people of
-color are associated with lower walkability scores which means that walkability is not a neutral metric and people of color do not have equal access to it. 
+- Greater walkability in formerly redlined neighborhoods doesn’t mean the people harmed by redlining are the ones benefiting. Planning decisions and gentrification may have displaced many residents of color from these neighborhoods.
+- Within neighborhoods of the same HOLC grade, higher concentrations of people of color were associated with lower walkability, suggesting walkability is not equally distributed.
 
 <img width="907" height="701" alt="image" src="https://github.com/user-attachments/assets/ff009916-503e-4a76-8819-c51bce2b3985" />
 
