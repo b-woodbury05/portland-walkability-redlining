@@ -13,6 +13,16 @@ neighborhoods using regression analysis in R.
 - Greater walkability in formerly redlined neighborhoods doesn’t mean the people harmed by redlining are the ones benefiting. Planning decisions and gentrification may have displaced many residents of color from these neighborhoods.
 - Within neighborhoods of the same HOLC grade, higher concentrations of people of color were associated with lower walkability, suggesting walkability is not equally distributed.
 
+## Methods
+I compared walkability scores (City of Portland Complete Neighborhoods
+index) across 68 neighborhoods with HOLC grades A-D using OLS regression.
+Models test both a binary redlined indicator and categorical grades
+(Grade A as reference), with vulnerability, percent people of color, and
+income as controls. After VIF checks showed multicollinearity among the
+controls, I re-ran models with them entered separately. Diagnostics
+included Breusch-Pagan and Shapiro-Wilk tests, heteroskedasticity-robust
+(HC3) standard errors, and a sensitivity check excluding Forest Park.
+
 <img width="907" height="701" alt="image" src="https://github.com/user-attachments/assets/ff009916-503e-4a76-8819-c51bce2b3985" />
 
 
